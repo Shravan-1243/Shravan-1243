@@ -10,7 +10,7 @@
 
 Check out my repositories for project details!
 
-[LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/) | [Email](shravankanamadi12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/) | [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 <h2> 🤳 Connect with me:</h2>
 
