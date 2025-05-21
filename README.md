@@ -1,38 +1,39 @@
-<h1>Hi, I'm Shravan! <br/><a href="https://github.com/Shravan-1243/Shravan-1243">Data Scientist</a>, <a href="https://www.linkedin.com/in/shravan-kanamadi-338715178/">Data Ethausist</a></h1>
+# Hi, I'm Shravan! 👋  
+**Data Scientist | Data Enthusiast | MSc in Data Science & Analytics**
 
-<h2>👨‍💻 Data Science Project:</h2>
+---
 
-- <b>Customer Lifetime Value (CLV) prediction using Machine Learning (Random Forest, XGBoost) and behavioral segmentation (AlgoExpert)</b>
-- My work involves:
-* Data Cleaning & Feature Engineering
-* RFM Analysis & K-means Clustering
-* Predictive Modeling
+Welcome to my GitHub! I'm passionate about turning complex data into actionable insights using machine learning, analytics, and effective storytelling. I'm always looking to apply my skills in real-world projects and collaborate with like-minded professionals.
 
-Check out my repositories for project details!
+---
 
-[LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/) | [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+## 📊 Data Science Project:  
+### 🎯 Predicting Customer Lifetime Value (CLV) using Machine Learning
 
-<h2> 🤳 Connect with me:</h2>
+A capstone project for my MSc in Data Science, focused on predicting Customer Lifetime Value using:
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🧹 **Data Cleaning & Feature Engineering**: Processed 500K+ records from the Online Retail II dataset  
+- 📊 **RFM Analysis & K-Means Clustering**: Created meaningful customer segments based on behaviour  
+- 🤖 **Predictive Modelling**: Trained and evaluated **Random Forest** and **XGBoost** models  
+- 📈 **Key Outcome**: Achieved **R² = 0.9864** with Random Forest, outperforming XGBoost in all evaluation metrics
 
-[twitter]: https://x.com/KanamadiShravan?t=hvDwxxbkzRmxvbhcgYwfxw&s=09
-[instagram]: https://www.instagram.com/_shra1_kanamadi_?igsh=MTA5NDNmbzM3dDQ4cQ==
-[linkedin]: https://www.linkedin.com/in/shravan-kanamadi-338715178/
+> Tools Used: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Jupyter
 
-<!--
-**Shravan-1243/Shravan-1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [Explore the repository for code, visuals, and insights](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me:
+- 🎓 MSc in Data Science & Analytics – University of Hertfordshire  
+- 🔍 Interests: Customer Analytics, Predictive Modelling, ML Explainability, Data Visualization  
+- 🛠️ Skills: Python | SQL | Power BI | Machine Learning | Data Wrangling | Exploratory Data Analysis  
+
+---
+
+## 📫 Let's Connect:
+- [LinkedIn](https://linkedin.com/in/shravan-1243)  
+- 📧 Email: yourname@email.com  
+
+---
+
+Thanks for visiting my profile!
