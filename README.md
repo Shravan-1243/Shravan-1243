@@ -31,8 +31,8 @@ A capstone project for my MSc in Data Science, focused on predicting Customer Li
 ---
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/shravan-1243)  
-- 📧 Email: yourname@email.com  
+- [LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/)  
+- 📧 Email: shravankanamadi12@gmail.com
 
 ---
 
