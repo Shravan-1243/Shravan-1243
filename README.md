@@ -19,7 +19,7 @@ A capstone project for my MSc in Data Science, focused on predicting Customer Li
 
 > Tools Used: Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Jupyter
 
-🔗 [Explore the repository for code, visuals, and insights](#)
+🔗 [Explore the repository for code, visuals, and insights](https://github.com/Shravan-1243/Customer-Segmentation-LTV.git)
 
 ---
 
