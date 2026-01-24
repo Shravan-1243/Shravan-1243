@@ -1,4 +1,4 @@
-# Hi, I'm Shravan! 👋  
+# Hi, I am Shravan! 👋  
 **Data Scientist | Data Enthusiast | MSc in Data Science & Analytics**
 
 ---
