@@ -1,5 +1,5 @@
 # Hi, I am Shravan! 👋  
-**Data Scientist | Data Enthusiast | MSc in Data Science & Analytics**
+**Business Analyst | Data Enthusiast | MSc in Data Science & Analytics**
 
 ---
 
