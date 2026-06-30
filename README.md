@@ -9,6 +9,7 @@ I bridge business stakeholders and technical delivery teams — gathering requir
 - 💼 Full portfolio with case study write-ups: **[shravankanamadi.github.io](https://shravankanamadi.github.io)**
 - 📫 shravankanamadi12@gmail.com · [LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/)
 
+
 ---
 
 ## 📁 Business Analysis Case Studies
@@ -16,7 +17,7 @@ I bridge business stakeholders and technical delivery teams — gathering requir
 | Project | What it demonstrates |
 |---|---|
 | 🏥 [nhs-ae-patient-flow-ba-case-study](https://github.com/Shravan-1243/nhs-ae-patient-flow-ba-case-study) | BRD, stakeholder/RACI register, AS-IS/TO-BE process maps, requirements (MoSCoW), and a BI dashboard — grounded in real NHS England performance statistics |
-| 🛒 [retail-self-checkout-ba-case-study](https://github.com/Shravan-1243/retail-self-checkout-ba-case-study) | BRD, stakeholder register, and process redesign for a retail self-checkout improvement initiative |
+| 🛒 retail-self-checkout-ba-case-study | *Coming soon* — BRD, stakeholder register, and process redesign for a retail self-checkout improvement initiative |
 
 ## 🛠️ Tools & Skills
 
