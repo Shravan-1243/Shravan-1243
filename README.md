@@ -3,7 +3,7 @@
 
 I bridge business stakeholders and technical delivery teams - gathering requirements, mapping processes, and writing the documentation that turns a business problem into a deliverable solution. My analytics background (NielsenIQ, MSc Data Science & Analytics) means I bring a data-literate edge to BA work.
 
-📍 London, UK — open to BA/Data Analyst **contract, freelance, and interim** roles across the UK
+📍 London, UK - open to BA/Data Analyst **contract, freelance, and interim** roles across the UK
 🎓 BCS Professional Member (MBCS) · completing the IBM Business Analyst Professional Certificate ahead of IIBA ECBA
 💼 Full portfolio with case study write-ups: **[shravankanamadi.github.io](https://shravankanamadi.github.io)**
 📫 shravankanamadi12@gmail.com · [LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/)
