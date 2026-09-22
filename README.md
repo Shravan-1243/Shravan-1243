@@ -5,7 +5,7 @@ Ex-NielsenIQ · MSc Data Science & Analytics (University of Hertfordshire) · MB
 
 I turn retail and operational data into reporting that commercial teams can act on. At NielsenIQ I delivered category, pricing and sales-performance reporting for US retail and CPG clients, building Power BI and Tableau dashboards and automating recurring reports to cut manual effort by 40%.
 
-📍 London & Hertfordshire · Open to Data, Insight and BI/Reporting Analyst roles (permanent or contract, hybrid/remote)
+📍 London, UK (Open to relocate) · Open to Data, Insight and BI/Reporting Analyst roles (permanent or contract, hybrid/remote)
 
 ---
 
