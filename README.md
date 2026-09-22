@@ -1,43 +1,39 @@
 # Hi, I'm Shravan 👋
-**Business Analyst | Data-Literate BA | MSc Data Science & Analytics**
 
-I bridge business stakeholders and technical delivery teams - gathering requirements, mapping processes, and writing the documentation that turns a business problem into a deliverable solution. My analytics background (NielsenIQ, MSc Data Science & Analytics) means I bring a data-literate edge to BA work.
+**Data & Insight Analyst · Retail & CPG · Power BI · SQL · Python · Excel**
+Ex-NielsenIQ · MSc Data Science & Analytics (University of Hertfordshire) · MBCS
 
-📍 London, UK - open to BA/Data Analyst **contract, freelance, and interim** roles across the UK
-🎓 BCS Professional Member (MBCS) · completing the IBM Business Analyst Professional Certificate ahead of IIBA ECBA
-💼 Full portfolio with case study write-ups: **[shravankanamadi.github.io](https://shravankanamadi.github.io)**
-📫 shravankanamadi12@gmail.com · [LinkedIn](https://www.linkedin.com/in/shravan-kanamadi-338715178/)
+I turn retail and operational data into reporting that commercial teams can act on. At NielsenIQ I delivered category, pricing and sales-performance reporting for US retail and CPG clients, building Power BI and Tableau dashboards and automating recurring reports to cut manual effort by 40%.
 
-## 📁 Business Analysis Case Studies
+📍 London & Hertfordshire · Open to Data, Insight and BI/Reporting Analyst roles (permanent or contract, hybrid/remote)
 
-| Project | What it demonstrates |
-|---|---|
-| 🏥 [nhs-ae-patient-flow-ba-case-study](https://github.com/Shravan-1243/nhs-ae-patient-flow-ba-case-study) | BRD, stakeholder/RACI register, AS-IS/TO-BE process maps, requirements (MoSCoW), and a BI dashboard - grounded in real NHS England performance statistics |
-| 🛒 retail-self-checkout-ba-case-study | *Coming soon* - BRD, stakeholder register, and process redesign for a retail self-checkout improvement initiative |
+---
+
+## 📊 Featured Projects
+
+| Project | Business question | Tools |
+|---|---|---|
+| [NHS A&E Performance & Patient Flow](https://github.com/Shravan-1243/nhs-ae-patient-flow-ba-case-study) | Where are A&E 4-hour performance pressures, and what process changes would improve patient flow? Built on real NHS England performance statistics. | [Power BI · Excel] · Requirements · Process mapping |
+| [Customer Segmentation & Lifetime Value](https://github.com/Shravan-1243/Customer-Segmentation-LTV) | Which customers drive value, and where should retention budget go? RFM + K-Means segmentation on 500K+ retail transactions; [X]% of customers drive [Y]% of revenue. | Python · pandas · scikit-learn |
+
+<!-- Add when published:
+| [Retail Self-Checkout Improvement](link) | How can self-checkout friction be reduced? BRD, stakeholder/RACI register, AS-IS/TO-BE process maps. | draw.io · Requirements |
+| [dunnhumby Category & Basket Analysis](link) | Which categories and promotions drive basket value? | SQL · Power BI |
+-->
+
+Full write-ups and dashboards: **[shravankanamadi.github.io](https://shravankanamadi.github.io)**
+
+---
 
 ## 🛠️ Tools & Skills
 
-**Business Analysis:** Requirements Elicitation · BRD Authoring · Stakeholder Management & RACI · AS-IS/TO-BE Process Mapping · MoSCoW Prioritisation · Agile & Waterfall
-**Technical:** Python · SQL · Power BI · Tableau · Advanced Excel (Power Query, DAX) · MySQL · PostgreSQL
+**BI & reporting:** Power BI (DAX, Power Query) · Tableau · Advanced Excel
+**Data:** SQL (PostgreSQL, MySQL) · Python (pandas, scikit-learn) · R · SAS
+**Analysis:** KPI reporting · Category & sales performance · Statistical analysis · Data quality & ETL
+**Business:** Requirements gathering · Stakeholder management · Process mapping (AS-IS/TO-BE)
 
-## 🔗 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-kanamadi-338715178/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravankanamadi)
+## 📫 Connect
 
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Earlier Data Analytics Projects
-
-- [Customer-Segmentation-LTV](https://github.com/Shravan-1243/Customer-Segmentation-LTV) - Customer Lifetime Value prediction via RFM + Random Forest (R² = 0.9864)
-- [fake-news-detection-ml-xai](https://github.com/Shravan-1243/fake-news-detection-ml-xai) - Text classification with SHAP-based explainability
-
-Full case study write-ups, methodology notes, and dashboards: [shravankanamadi.github.io](https://shravankanamadi.github.io)
+[LinkedIn](https://www.linkedin.com/in/shravankanamadi-338715178) · [Portfolio](https://linktr.ee/shravankanamadi) · [Kaggle](https://www.kaggle.com/shravankanamadi) · shravankanamadi12@gmail.com
