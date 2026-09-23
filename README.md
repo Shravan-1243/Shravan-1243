@@ -9,13 +9,11 @@ I turn retail and operational data into reporting that commercial teams can act 
 
 ---
 
-## 📊 Featured Projects
-
-| Project | Business question | Tools |
-|---|---|---|
-| [NHS A&E Performance & Patient Flow](https://github.com/Shravan-1243/nhs-ae-patient-flow-ba-case-study) | Where are A&E 4-hour performance pressures, and what process changes would improve patient flow? Built on real NHS England performance statistics. | Power BI · Excel · Requirements · Process mapping |
-| [Customer Segmentation & Lifetime Value](https://github.com/Shravan-1243/Customer-Segmentation-LTV) | Which customers drive value, and where should retention budget go? RFM + K-Means segmentation on 500K+ retail transactions; 50% of customers drive 30% of revenue. | Python · pandas · scikit-learn |
-| Retail Self-Checkout Loss Reduction	Why is self-checkout shrinkage above benchmark, and what should a solution require? BRD, stakeholder/RACI register, AS-IS/TO-BE process maps.	BPMN · Excel · Stakeholder analysis
+📊 Featured Projects
+Project	Business question	Tools
+NHS A&E Patient Flow	How can a Trust reduce A&E 4-hour breaches? Business case grounded in published NHS England statistics, with process redesign, requirements and a KPI dashboard.	SQL · Python (pandas) · Excel · BPMN · HTML/Chart.js dashboard
+Customer Segmentation & Lifetime Value	Which customers drive value, and where should retention budget go? RFM + K-Means segmentation on 500K+ UK online retail transactions; the top 20% of customers drive 80%+ of revenue.	Python · pandas · scikit-learn
+Retail Self-Checkout Loss Reduction	Why is self-checkout shrinkage above benchmark, and what should a solution require? BRD, stakeholder/RACI register, AS-IS/TO-BE process maps.
 
 <!-- Add when published:
 | [Retail Self-Checkout Improvement](link) | How can self-checkout friction be reduced? BRD, stakeholder/RACI register, AS-IS/TO-BE process maps. | draw.io · Requirements |
